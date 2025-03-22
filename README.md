@@ -4,7 +4,7 @@ Group activity to familiarize with git
 # Commands
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
-3. `git diff` - Clifford do some changes
+3. `git diff` - Clifford do some changes 2nd change
 4. `git add <filename>` 
 5. `git reset <filename>`
 6. `git commit -m "<descriptive message>"` - contributor 2 changes (git push --force, 4th time)
