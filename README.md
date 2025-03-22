@@ -7,7 +7,7 @@ Group activity to familiarize with git
 3. `git diff` - Clifford do some changes
 4. `git add <filename>` 
 5. `git reset <filename>`
-6. `git commit -m "<descriptive message>"` - contributor 2 changes (git push --force, 4th time)
+6. `git commit -m "<descriptive message>"` - contributor 2 changes (git push --force, 5th time after c1 changes)
 7. `git log`
 8. `git branch <branch name>`
 9. `git checkout <branch name>`
